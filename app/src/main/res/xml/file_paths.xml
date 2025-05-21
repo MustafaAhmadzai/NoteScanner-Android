@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- For camera image capture -->
+    <external-files-path
+        name="my_images"
+        path="Pictures/" />
+
+    <!-- For downloaded PDFs stored in cache -->
+    <cache-path
+        name="pdfs"
+        path="." />
+</paths>
+
